@@ -52,6 +52,10 @@ To check remote url
 ```
 git remote -v
 ```
+To push files in git use
+```
+git push origin main
+```
 
 To setup CI/CD pipeline in heroku we need 3 information
 1. HEROKU_EMAIL = anishyadav7045075175@gmail.com
